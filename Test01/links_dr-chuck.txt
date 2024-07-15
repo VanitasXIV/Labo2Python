@@ -1,0 +1,14 @@
+https://amzn.to/34F1Y0z
+https://github.com/csev/net-intro/commits/master
+http://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf
+http://do1.dr-chuck.net/net-intro/EN_us/net-intro.epub
+https://audio.net-intro.com
+book/translations/Spanish/2021-06-12-book.pdf
+book/translations/Greek/2021-06-28-book.pdf
+book/translations/Russian/2021-07-11-book.pdf
+book.php
+http://lab.hakim.se/reveal-js/#/
+http://csev.github.io/dazzleSketch/
+slides/index.php
+quiz/
+https://www.coursera.org/learn/insidetheinternet
